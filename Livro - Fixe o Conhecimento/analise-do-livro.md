@@ -78,7 +78,7 @@ O livro apresenta técnicas comprovadas que funcionam de maneira eficaz:
 
 - **Recuperação da Informação e Prática:** Isso inclui testes e, no contexto prático, simulações, que contribuem para uma aprendizagem eficaz.
 
-- **Espaçamento de Estudos, Intercalo e Variado:** Estratégias que visam fortalecer a memória por meio do esforço de lembrar em diferentes contextos.
+- **Espaçamento de Estudos, Intercalado e Variado:** Estratégias que visam fortalecer a memória por meio do esforço de lembrar em diferentes contextos.
 
 A crença no poder da releitura, da intencionalidade e da repetição está profundamente enraizada, mas, em geral, não é suficiente para incorporar informações à memória de maneira duradoura. A verdade é que a aprendizagem eficaz requer abordagens mais complexas e fundamentadas.
 
