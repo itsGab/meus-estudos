@@ -14,7 +14,7 @@ Isso torna mais fácil para mim, ou qualquer outra pessoa, navegar e aproveitar 
 
 ## Tópicos de Estudo
 
-- [Livro - Fixe o Conhecimento](link-para-o-repositório-1)
+- [Livro - Fixe o Conhecimento](https://github.com/itsGab/meus-estudos/tree/master/Livro%20-%20Fixe%20o%20Conhecimento)
 - [E assim por diante...]
 
 ## Contribuição
