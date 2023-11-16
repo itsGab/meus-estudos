@@ -1,5 +1,6 @@
 # Disclaimer sobre o uso desse documento
 
+
 Este é um resumo que elaborei para meu próprio estudo com base no livro "Fixe o Conhecimento". Embora seja uma análise superficial do conteúdo, foi criado com o propósito de me auxiliar na compreensão e revisão do material presente no livro. No entanto, é importante destacar que este resumo não substitui a leitura completa do livro original, que oferece insights mais abrangentes e detalhados. Este documento é de uso estritamente pessoal e não deve ser reproduzido ou distribuído sem minha autorização.
 
 
