@@ -14,7 +14,7 @@ Isso torna mais fácil para mim, ou qualquer outra pessoa, navegar e aproveitar 
 
 ## Tópicos de Estudo
 
-- [Livro - Fixe o Conhecimento](./Livro%20-%20Fixe%20o%20Conhecimento/)
+- [Livro - Fixe o Conhecimento](./Livro-Fixe-o-conhecimento)
 - [E assim por diante...]
 
 ## Contribuição

@@ -1,11 +1,11 @@
-# Um Estudo Sobre o Livro "Fixe o Conhecimento"
+# Disclaimer sobre o uso desse documento
 
-O livro se propõe a apresentar maneiras mais eficientes de aprendizagem, que são diferentes das popularmente difundidas e ineficêntes, apesar de acreditarmos que elas funcionam. O livro tem um foco no publico geral que quer aprender de forma mais eficiente. O livro é apresentado por dois pesquisadores técnicos das areas de psicologia cognitiva e um escritor ("contador de histórias"), cujo o qual, tem uma função de tradutor, para nós, mais leigos, facilitando a compreensão.
+Este é um resumo que elaborei para meu próprio estudo com base no livro "Fixe o Conhecimento". Embora seja uma análise superficial do conteúdo, foi criado com o propósito de me auxiliar na compreensão e revisão do material presente no livro. No entanto, é importante destacar que este resumo não substitui a leitura completa do livro original, que oferece insights mais abrangentes e detalhados. Este documento é de uso estritamente pessoal e não deve ser reproduzido ou distribuído sem minha autorização.
 
 
 # Capítulo 1: A aprendizagem é mal compreendida
 
-## Três Pontos Concensuais sobre Aprendizagem
+## Três Pontos Consensuais sobre Aprendizagem
 
 1. **Requer Memória:** É necessário armazenar informações para uso posterior.
 
@@ -50,17 +50,17 @@ Muitas das técnicas de aprendizagem que consideramos eficazes são transmitidas
 
 ## As Pessoas Não Compreendem Direito a Aprendizagem
 
-Acreditamos que a aprendizagem de forma mais fácil e a atravéz de repetição gerão bons resultados, mas geram apenas um aprendizado superficial. Apesar da releitura parece um método eficaz, não é, aqui estão 3 pontos que sobre:
-1. Demanda muito tempo (desperdicio).
+Acreditamos que a aprendizagem de forma mais fácil e a através de repetição geram bons resultados, mas geram apenas um aprendizado superficial. Apesar da releitura parece um método eficaz, não é, aqui estão 3 pontos que sobre:
+1. Demanda muito tempo (desperdício).
 2. Memória não duradoura.
-3. A familiaridade, causada pela releitura, da a impressão de dominio do assunto, mas é apenas um auto enganação.
+3. A familiaridade, causada pela releitura, dá a impressão de domínio do assunto, mas é apenas uma auto enganação.
 
-No caso citado no livro, são citadas com técnicas que funcionam.
+No caso citado no livro, são citadas como técnicas que funcionam.
 - Imersão contextual (engajando e gerando propósito da informação).
 - Recuperação da informação e prática (através de teste, e no caso prático, através de um simulador).
-- Espaçamento, intercalado e variado, trabalhando a memório (esforço para a relembrar).
+- Espaçamento, intercalado e variado, trabalhando a memória (esforço para a relembrar).
 
-A crença no poder da releitura, na intencionalidade e na repetição está arraijada, mas a verdade é que, em geral, você não consegue incorporar algo na memória simplesmente repetindo e repetindo aquilo.
+A crença no poder da releitura, na intencionalidade e na repetição está arraigada, mas a verdade é que, em geral, você não consegue incorporar algo na memória simplesmente repetindo e repetindo aquilo.
 
 ## A Compreensão Inadequada da Aprendizagem
 
