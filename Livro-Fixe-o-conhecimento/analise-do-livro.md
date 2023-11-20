@@ -129,11 +129,11 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        Os três pontos consensuais sobre a aprendizagem mencionados no capítulo são:
-        - Requer Memória: É necessário armazenar informações para uso posterior.
-        - É um Processo Contínuo: A aprendizagem é uma parte constante de nossas vidas, sempre avançando.
-        - A Aprendizagem é uma Habilidade Adquirida: Muitas vezes, os métodos eficazes são contraintuitivos.
-    
+    Os três pontos consensuais sobre a aprendizagem mencionados no capítulo são:
+    - Requer Memória: É necessário armazenar informações para uso posterior.
+    - É um Processo Contínuo: A aprendizagem é uma parte constante de nossas vidas, sempre avançando.
+    - A Aprendizagem é uma Habilidade Adquirida: Muitas vezes, os métodos eficazes são contraintuitivos.
+
     </strong>
     </details>
 
@@ -145,7 +145,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        É importante investir esforço na aprendizagem, de acordo com o livro, porque o esforço resulta em aprendizagem mais profunda e duradoura.
+    É importante investir esforço na aprendizagem, de acordo com o livro, porque o esforço resulta em aprendizagem mais profunda e duradoura.
     
     </strong>
     </details>
@@ -158,7 +158,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        As principais desvantagens da prática de releitura são que ela demanda muito tempo, não resulta em memória duradoura e pode criar uma familiaridade enganosa com o conteúdo.
+    As principais desvantagens da prática de releitura são que ela demanda muito tempo, não resulta em memória duradoura e pode criar uma familiaridade enganosa com o conteúdo.
     
     </strong>
     </details>
@@ -171,7 +171,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        Algumas técnicas de aprendizado eficazes apresentadas no texto são: Imersão Contextual, Recuperação da Informação e Prática, Espaçamento de Estudos, Intercalação na Prática de Tópicos e Habilidades Diferentes, e Tentativa de Resolução de Problemas Antes de Receber a Solução.
+    Algumas técnicas de aprendizado eficazes apresentadas no texto são: Imersão Contextual, Recuperação da Informação e Prática, Espaçamento de Estudos, Intercalação na Prática de Tópicos e Habilidades Diferentes, e Tentativa de Resolução de Problemas Antes de Receber a Solução.
     
     </strong>
     </details>
@@ -184,7 +184,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        A "Ilusão de Já Saber" é a crença errônea de que compreendemos um tópico apenas porque temos familiaridade com ele, quando na verdade isso não reflete uma verdadeira compreensão.
+    A "Ilusão de Já Saber" é a crença errônea de que compreendemos um tópico apenas porque temos familiaridade com ele, quando na verdade isso não reflete uma verdadeira compreensão.
     
     </strong>
     </details>
@@ -197,7 +197,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        Algumas abordagens complementares às técnicas de aprendizado mencionadas no texto incluem: Resumir os pontos-chave no final de cada seção ou capítulo, definir e aplicar conceitos em um parágrafo, transformar principais pontos em perguntas para responder mais tarde, reformular o conteúdo com suas próprias palavras e relacionar pontos ao conhecimento prévio, usando exemplos não incluídos no texto e contextualizando.
+    Algumas abordagens complementares às técnicas de aprendizado mencionadas no texto incluem: Resumir os pontos-chave no final de cada seção ou capítulo, definir e aplicar conceitos em um parágrafo, transformar principais pontos em perguntas para responder mais tarde, reformular o conteúdo com suas próprias palavras e relacionar pontos ao conhecimento prévio, usando exemplos não incluídos no texto e contextualizando.
     
     </strong>
     </details>
@@ -210,8 +210,8 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        É importante identificar as áreas de fraqueza na aprendizagem porque isso nos ajuda a reconhecer as lacunas em nosso conhecimento por meio de avaliações e reflexões, permitindo-nos concentrar nossos esforços de estudo de forma mais eficaz.
-    
+    É importante identificar as áreas de fraqueza na aprendizagem porque isso nos ajuda a reconhecer as lacunas em nosso conhecimento por meio de avaliações e reflexões, permitindo-nos concentrar nossos esforços de estudo de forma mais eficaz.
+
     </strong>
     </details>
 
@@ -223,7 +223,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        Os testes podem ser utilizados como ferramentas de aprendizado, além de instrumentos de avaliação, ajudando na prática de recuperação de informações e tornando o conhecimento mais acessível quando precisamos aplicá-lo.
+    Os testes podem ser utilizados como ferramentas de aprendizado, além de instrumentos de avaliação, ajudando na prática de recuperação de informações e tornando o conhecimento mais acessível quando precisamos aplicá-lo.
     
     </strong>
     </details>
@@ -236,7 +236,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        Algumas estratégias simples e práticas para melhorar a aprendizagem eficaz incluem recuperação da informação, prática espaçada e distribuída, intercalaçãão na prática de tópicos e habilidades diferentes, tentativa de resolução de problemas antes de receber a solução, entre outras mencionadas no texto.
+    Algumas estratégias simples e práticas para melhorar a aprendizagem eficaz incluem recuperação da informação, prática espaçada e distribuída, intercalaçãão na prática de tópicos e habilidades diferentes, tentativa de resolução de problemas antes de receber a solução, entre outras mencionadas no texto.
     
     </strong>
     </details>
@@ -249,7 +249,7 @@ Portanto, a lição essencial é que a aprendizagem eficaz requer uma abordagem 
     <summary><small>Resposta: click para mostrar</small></summary>
     <strong>
 
-        A lição essencial destacada no texto sobre aprendizagem eficaz é que a aprendizagem requer uma abordagem consciente e estratégica, e muitas vezes, técnicas de aprendizado menos intuitivas podem produzir resultados superiores.
+    A lição essencial destacada no texto sobre aprendizagem eficaz é que a aprendizagem requer uma abordagem consciente e estratégica, e muitas vezes, técnicas de aprendizado menos intuitivas podem produzir resultados superiores.
     
     </strong>
     </details>
