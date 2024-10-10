@@ -23,8 +23,10 @@ Essa organização visa facilitar a navegação e maximizar o aproveitamento do 
 
 ## Tópicos
 
-- [Livro - Fixe o Conhecimento](./Livro-fixe-o-conhecimento): Uma análise detalhada sobre técnicas de memorização e fixação do conhecimento.
-- [E assim por diante...]
+- [Manual Maker](./Manual-maker/): Uma introdução a elétrica, arduino e cultura maker.
+- [Livro - Fixe o Conhecimento](./Livro-fixe-o-conhecimento) [abandonado, só tem o primeiro capítulo]: Uma análise detalhada sobre técnicas de memorização e fixação do conhecimento.
+- [Artigos Soltos](./Artigos-soltos/): Arquivos isolados, provávelmente sobre programação.
+
 
 ## Contribuição
 
