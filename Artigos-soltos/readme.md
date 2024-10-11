@@ -4,4 +4,4 @@ Este repositório contém uma coleção de artigos isolados, que não pertencem 
 
 Artigos:
 
-1. [Algumas-Dicas para um Código Limpo e Manutenível](./algumas-dicas-para-um-codigo-limpo-e-manutenivel.md)
+1. [Algumas Dicas para um Código Limpo e Manutenível](./algumas-dicas-para-um-codigo-limpo-e-manutenivel.md)

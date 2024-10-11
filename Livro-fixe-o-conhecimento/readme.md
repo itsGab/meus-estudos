@@ -1,1 +1,0 @@
-## Como acabei abandonando a leitura no começo, refarei em outro momento.
