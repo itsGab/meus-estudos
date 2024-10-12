@@ -2,14 +2,17 @@
 
 Este repositório ainda está em desenvolvimento e a estrutura pode sofrer alterações. Estou aberto a sugestões e feedbacks sobre o conteúdo e a organização.
 
-# Repositório de Estudos Diversificados
+# Propósito
 
-Este repositório tem como propósito armazenar meus estudos sobre diversos tópicos, incluindo resumos, anotações e questionários. Os materiais estão organizados de forma a tentar facilitar o acesso e a compreensão.
+Este repositório contém meus estudos sobre diversos tópicos, organizados em seus respectivos diretórios. 
 
-O objetivo principal é registrar de forma a:
-- Fixar o conhecimento ao reformular o conteúdo com novas explicações, o que me ajuda a aprofundar nos conceitos.
-- Armazenar informações para futuras consultas e revisões.
-- Ser um recurso útil para quem encontrar este material.
+## Objetivos
+
+- Fixar o conhecimento: Aprofundar conceitos ao reescrever e explicar o conteúdo.
+
+- Guardar para consulta: Ter material disponível para revisões futuras.
+
+- Compartilhar: Oferecer um recurso útil para outras pessoas.
 
 ## Estrutura
 
